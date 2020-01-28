@@ -1,0 +1,1 @@
+This is the 0.Opening exercise 0x01-emacs
